@@ -1,0 +1,11 @@
+name: Lobby
+version: 1.0.0
+author: unluztiglp
+authors: []
+main: me.unluztiglp.nightfront.lobby.main.Main
+description: NightFront-Lobby
+commands:
+  spawn:
+  setspawn:
+  build:
+  kopf:
